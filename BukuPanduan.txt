@@ -1,0 +1,30 @@
+
+
+
+hello slurr.... Gw mau perkenalan dulu kenalin gw Zaki A Sebut aja Zaki... oke jadi disini gw bakalan buat Tools  
+Kalo kalian mau cari nama github gw nih : https://github.com/zakiahsanS, Oke tanpa banyak basa basi lagi langsung saja kita siapkan bahan bahannya dulu ikutin perintah
+dibawah ini :
+
+1.$ apt update && apt upgrade
+2.$ pkg install nano
+3.$ pkg install bash
+4.$ pkg install figlet
+5.$ pkg install git
+——————————————————————————————————
+oke setelah itu kalian ketik "cd Tolol" setelah kalian ketik "sh Hack.sh" 
+setelah kalian masuk kedalam toolsnya kalian pilih "install bahan"
+jika sudah silahkan dpilih sesuka hatimu
+
+note : bila ada kesalahan didalam script itu mohon dimaafkan ya maklumlah baru pemula
+saya akan berusaha untuk terus membuat script semakin bagus
+
+
+ oke mungkin segini aja perintahnya tapi kalo ada kesalahan mohon maaf maklumlah baru pemula 
+
+Okelah Sekian
+
+Wassalamualaikum Wrwb.  
+
+
+
+Lord Zaki
